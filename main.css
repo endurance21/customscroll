@@ -1,0 +1,66 @@
+ #div1{ 
+     
+    background-color:red;
+}
+
+#div2{ 
+    background-color:aqua;
+}
+
+#div3{
+     background-color:yellow;
+}
+
+#div4{
+     background-color:grey;
+}
+
+#div5{
+     background-color:red;
+}
+
+ .divs{   display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 800px;
+        padding: 100px 100px 30px 100px;
+        widows: 90%;
+        margin-right: 100px;
+        font-size:40px;
+        text-align: center;
+        font-family:"Comic Sans MS", cursive, sans-serif;
+
+
+
+
+        
+        
+    }
+ 
+    
+button:hover{     color:red;
+                  font-size:30px;
+}
+
+button{ 
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+#btn1{          margin-left:90%;
+                margin-top: 150px;
+                background-color:aqua   ;
+                position:fixed;
+                border-radius:120px;
+                padding:40px;
+
+
+} 
+
+
+#btn2{          margin-left:90%;
+                margin-top: 350px;
+                background-color:aqua;
+                position:fixed;
+                border-radius:120px;
+                padding:30px;
+}
